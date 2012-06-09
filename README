@@ -1,0 +1,8 @@
+date: 090901
+name: random timer line 26b cartes 9.2.2
+
+[ prerequisite for running:  the Processing programming environment - http://processing.org ]
+
+This project examines how to make different moods of line movements, in a controlled manner.
+The rendering of this is in the form of lines and line movements.
+Admittedly, the code is a bit too complex. 
